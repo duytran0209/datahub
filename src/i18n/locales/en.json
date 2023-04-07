@@ -1,0 +1,17 @@
+{
+  "Provincial Data Hub": "Provincial Data Hub",
+  "NOT_EXIST_ACCOUNT": "Account is not exist",
+  "INCORRECT_USERNAME_PASSWORD": "Wrong username or password",
+  "Dashboard": "Dashboard",
+  "Category": "Categories",
+  "Province": "Province",
+  "District": "District",
+  "Sites": "Sites",
+  "Gender": "Gender",
+  "Age Groups": "Age groups",
+  "Key Population": "Key Population",
+  "Synonyms": "Synonyms",
+  "Drug": "Drug",
+  "ConfirmDeleteMessage": "Are you sure to delete {{type}} '{{item}}'?",
+  "SubConfirmDeleteMessage": "This action could not undo"
+}
